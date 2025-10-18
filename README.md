@@ -5,9 +5,17 @@ Perfect for frontend practice, portfolio projects, or as a clean UI prototype.
 
 ---
 
+## 🎬 Demo
+
+[![Spotify Web Player Demo](https://img.youtube.com/vi/FJ109cC1aT8/hqdefault.jpg)](https://youtu.be/FJ109cC1aT8)  
+▶️ [Watch full demo on YouTube](https://youtu.be/FJ109cC1aT8)
+
+
+---
+
 ## 🧭 Overview
 
-This project recreates the look and feel of the **Spotify Web Player** using semantic HTML5 and modern CSS3.  
+This project recreates the look and feel of the **Spotify Web Player** using semantic **HTML5** and modern **CSS3**.  
 It features a complete layout with sidebar navigation, content cards, and a persistent bottom music player — all responsive across screen sizes.
 
 ---
@@ -35,11 +43,11 @@ It features a complete layout with sidebar navigation, content cards, and a pers
 
 You can view this project instantly — no build tools required!
 
-1. Clone or download the repository.
+1. **Clone or download** the repository.  
 2. Open **`index.html`** in any modern browser.
 
 **Optional:** Run a quick local server for testing:
-
 ```bash
 # For Python 3.x
 python -m http.server 8000
+
