@@ -7,9 +7,7 @@ Perfect for frontend practice, portfolio projects, or as a clean UI prototype.
 
 ## 🎬 Demo
 
-[![Spotify Web Player Demo](https://img.youtube.com/vi/FJ109cC1aT8/hqdefault.jpg)](https://youtu.be/FJ109cC1aT8)  
 ▶️ [Watch full demo on YouTube](https://youtu.be/FJ109cC1aT8)
-
 
 ---
 
